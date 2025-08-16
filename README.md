@@ -1,5 +1,5 @@
 ## Hi there 👋
-# A Developer by day ☼ and Motion design by night ☾
+# A Developer by day ☼ and Motion designer by night ☾
 
 # Developer at:
 Luau - [ToTObby](https://www.roblox.com/games/97077909024563/Test-of-Time-Obby);
